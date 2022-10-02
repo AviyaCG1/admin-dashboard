@@ -233,9 +233,20 @@ ul{
     width: 50px;
 }
 
+.card .profile{
+    grid-template: 1fr 1fr/ 1fr 4fr;
+}
+
+.profile + .profile{
+
+}
+.username{
+    align-self: flex-end;
+}
 .description{
     color: #555;
     font-size: 0.9rem;
+    padding-left: 10px;
 }
 
 
