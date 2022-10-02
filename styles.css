@@ -228,7 +228,8 @@ ul{
 }
 
 
-.card .profile-pic{
+.card .profile-pic,
+#header-menu .profile-pic{
     width: 50px;
 }
 
