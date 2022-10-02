@@ -92,9 +92,13 @@ body{
 
     padding: 20px;
     color: #fff;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     font-weight: 600;
     letter-spacing: 0.1rem;
+}
+
+#sidebar-header{
+    font-size: 1.3rem;
 }
 
 ul{
@@ -197,7 +201,7 @@ ul{
 
     display: grid;
     grid-template: 2rem 1fr;
-    gap: 5px;
+    gap: 20px;
 
     padding: 1rem 0.5rem;
 }
