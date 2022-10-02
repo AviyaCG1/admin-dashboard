@@ -152,11 +152,15 @@ ul{
 
 .card{
     background-color: #fff;
-    border-radius: 16px ;
+    border-radius: 8px ;
 
     box-shadow: 1px 2px 2px 1px #55555520;
 
     padding: 16px;
+}
+
+#project-cards>.card{
+    border-left: 8px solid gold;
 }
 
 .card-header{
